@@ -1,0 +1,73 @@
+{
+  "name": "Seif Eddine Legnioui",
+  "location": "Casablanca, Morocco",
+  "current_education": {
+    "degree": "Master's in Artificial Intelligence",
+    "institution": "Faculty of Sciences Ben M'Sik, Hassan II University of Casablanca",
+    "start_year": 2025,
+    "end_year": null,
+    "status": "in_progress",
+    "source": "CV dated 2026-11"
+  },
+  "completed_education": [
+    {
+      "degree": "Licence d'Excellence in Artificial Intelligence",
+      "institution": "Faculty of Sciences Ben M'Sik, Hassan II University of Casablanca",
+      "year": 2025,
+      "result": "Mention Bien"
+    },
+    {
+      "degree": "Specialized Technician Diploma in Web Development",
+      "institution": "ISTA - Centre de Formation Professionnelle Hassania, Casablanca",
+      "year": 2024,
+      "result": "Mention Très Bien"
+    }
+  ],
+  "professional_engagements_listed_in_cv": [
+    {
+      "role": "Full-Stack Web Developer",
+      "organization": "BEOM Agency",
+      "location": "Rabat, Morocco",
+      "start": "2024-03",
+      "end": "2024-06",
+      "summary": "Designed and developed the front end and back end of an e-learning platform."
+    },
+    {
+      "role": "Freelance AI Model Developer",
+      "organization": "Freelance",
+      "start": "2025-07",
+      "end": "2025-09",
+      "summary": "Designed and trained custom AI models for clients, from requirements definition through delivery."
+    }
+  ],
+  "featured_cv_projects": [
+    "End-to-End MLOps Platform - Telecom Customer Churn Detection",
+    "Real-Time Banking Fraud Detection Platform"
+  ],
+  "pfe_search": {
+    "status_in_cv": "seeking_pfe_internship",
+    "target_area": "AI and Data Science",
+    "duration_months_in_2027_application_letter": 6,
+    "target_year_in_2027_application_letter": 2027,
+    "current_status_confirmed": false
+  },
+  "languages": {
+    "French": "fluent / full professional proficiency (CV and LinkedIn wording)",
+    "English": "fluent / full professional proficiency (CV and LinkedIn wording)"
+  },
+  "public_profiles": {
+    "github": "https://github.com/Seiflegnioui",
+    "linkedin": "https://ma.linkedin.com/in/sifeddine-legnioui-5990b2297" ,
+    "email": "seifforjob@gmail.com",
+    "phone": "0717748883"
+  },
+  "counts_policy": {
+    "professional_engagements_in_latest_cv": 2,
+    "featured_projects_in_latest_cv": 2,
+    "total_portfolio_project_count": null,
+    "note": "Do not answer with a total project count until Seif confirms which repository, academic, collaborative, and exploratory projects should be counted."
+  },
+  "privacy": {
+    "note": "Nothing For now. Seif has not requested any privacy measures yet, but he may request some in the future."
+  }
+}
