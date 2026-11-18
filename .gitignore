@@ -19,3 +19,7 @@ chroma_db/
 # Environment files
 .env
 .env.*
+
+# Private docs
+README.md
+how-rag-chatbot-was-built.md
